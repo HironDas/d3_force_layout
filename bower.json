@@ -1,0 +1,22 @@
+{
+  "name": "d3_force_layout",
+  "authors": [
+    "Hiron Das <hcdas.09@gmail.com>"
+  ],
+  "description": "\"force layout design testing using d3\"",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.16"
+  }
+}
